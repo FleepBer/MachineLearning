@@ -9,6 +9,6 @@ Introdução a algoritmos não supervisionados
   <li>Agrupamento hierárquico e dendograma
 </ul>
 
-<img src=”(https://github.com/FleepBer/MachineLearning/blob/master/graphic.png)”>
+<img src= https://github.com/FleepBer/MachineLearning/blob/master/graphic.png>
 
 Nessa análise, foi usado um Dataframe contendo filmes para recomendação atráves de genêros.
