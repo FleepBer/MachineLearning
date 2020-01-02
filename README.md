@@ -1,12 +1,14 @@
 # MachineLearning
 Introdução a algoritmos não supervisionados
 
-● Conhecendo os dados
-● Agrupação de informações
-● Centroides
-● Qual a melhor quantidade de clusters a se trabalhar?
-● Agrupamento hierárquico e dendograma
+<ul>
+  <li>Conhecendo os dados</li>
+  <li>Agrupação de informações
+  <li>Centroides
+  <li>Qual a melhor quantidade de clusters a se trabalhar?
+  <li>Agrupamento hierárquico e dendograma
+</ul>
 
-![Alt Text] https://github.com/FleepBer/MachineLearning/blob/master/graphic.png
+[alt text](https://github.com/FleepBer/MachineLearning/blob/master/graphic.png)
 
 Nessa análise, foi usado um Dataframe contendo filmes para recomendação atráves de genêros.
