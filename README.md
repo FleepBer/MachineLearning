@@ -1,14 +1,14 @@
 # Machine Learning
-Introdução a algoritmos não supervisionados
+Introduction to unsupervised algorithms
 
 <ul>
-  <li>Conhecendo os dados</li>
-  <li>Agrupação de informações
+  <li>Knowing the data</li>
+  <li>Grouping of information
   <li>Centroides
-  <li>Qual a melhor quantidade de clusters a se trabalhar?
-  <li>Agrupamento hierárquico e dendograma
+  <li>What is the best number of clusters to work with?
+  <li>Hierarchical cluster and dendogram
 </ul>
 
 <img src= https://github.com/FleepBer/MachineLearning/blob/master/graphic.png>
 
-Nessa análise, foi usado um Dataframe contendo filmes para recomendação atráves de genêros.
+In this analysis, a Dataframe containing films was used for genre recommendation.
